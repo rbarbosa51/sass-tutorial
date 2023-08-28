@@ -15,7 +15,7 @@ npm install
 Now, install the sass tool:
 
 ```sh
-npm install sass
+npm install -D sass
 ```
 This will install sass inside your project. No configuration needed on your end.
 Open the project in VS Code
